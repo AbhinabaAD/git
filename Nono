@@ -1,0 +1,6 @@
+import java.util.*;
+public class No{
+public static void main(String[] args){
+System.out.print("Yo Aman");
+}
+}
